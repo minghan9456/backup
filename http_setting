@@ -1,0 +1,11 @@
+<Directory /var/www/html/yuji>
+ AllowOverride All
+ Order deny,allow
+ Allow from all
+</Directory>
+
+<Directory /var/www/html/mjohnh>
+ AllowOverride All
+ Order deny,allow
+ Allow from all
+</Directory>
